@@ -17,7 +17,7 @@ pnpm-debug.log*
 # =====================
 /target/
 **/*.rs.bk
-Cargo.lock
+#Cargo.lock
 
 # ⚠️ ВАЖНО:
 # Если это приложение (а не библиотека), лучше оставить Cargo.lock:
