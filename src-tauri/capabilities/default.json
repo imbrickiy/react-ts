@@ -9,6 +9,7 @@
     "fs:allow-read",
     "fs:allow-write",
     "fs:allow-read-dir",
-    "fs:allow-mkdir"
+    "fs:allow-mkdir",
+    "dialog:default"
   ]
 }
